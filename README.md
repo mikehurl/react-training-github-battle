@@ -4,6 +4,6 @@ My version of the "Github Battle" webapp after following the lessons provided by
 
 ## Instructions
 
-- `$ git clone https://github.com/mikehurl/react-training-github-battle.git`
+- `git clone https://github.com/mikehurl/react-training-github-battle.git`
 - `npm install`
 - `npm run start`
